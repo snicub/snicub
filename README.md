@@ -1,6 +1,6 @@
-### Hi!
+### hi!
 
-i love github 
+currently working on IoT embedded systems @colgate-palmolive. i also like to eat and cook 
 
 <!--
 **snicub/snicub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
