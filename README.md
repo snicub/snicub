@@ -1,7 +1,7 @@
 ### hi!
 
 
-currently working on IoT embedded systems @colgate-palmolive. 
+currently working on full stack development @colgate-palmolive. 
 
 <!--
 **snicub/snicub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
