@@ -1,7 +1,7 @@
 ### hi!
 
 
-currently working on web development @nespresso 
+currently studying cs at Rutgers U
 
 <!--
 **snicub/snicub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
