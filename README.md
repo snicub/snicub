@@ -1,7 +1,6 @@
 hi!
 
-
-currently studying cs at Rutgers U
+Swi proficient in java/typescript/javascript/html/css/python/sql
 
 <!--
 **snicub/snicub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
